@@ -15,7 +15,6 @@ boot1.rom | grom.bin   | Character generator ROM (2kB)
 boot2.rom | sp0256-012.bin | Intellivoice ROM (2kB)
 boot3.rom | ecs.bin    | ECS extension ROM (24kB)
 
-
 **Or merge all 4 ROMs into a single boot.rom file**
 ```
 cp exec.bin boot.rom
